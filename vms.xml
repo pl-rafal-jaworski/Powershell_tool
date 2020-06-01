@@ -1,0 +1,19 @@
+<VirtualMachinesList>
+  <defaultUsername>NOKLAB\wro5grrm</defaultUsername>
+  <defaultPassword>5gpass!1</defaultPassword>
+  <list>
+
+    <vm>
+      <name>VM1</name>
+      <ip>10.10.10.1</ip>
+      <description>description</description>
+    </vm>
+
+    <vm>
+      <name>VM2</name>
+      <ip>10.10.10.2</ip>
+      <description>description</description>
+    </vm>
+
+  </list>
+</VirtualMachinesList>
